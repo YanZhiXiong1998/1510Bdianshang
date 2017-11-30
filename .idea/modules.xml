@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1510Bdianshang.iml" filepath="$PROJECT_DIR$/1510Bdianshang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zidingyiview/build/app/app.iml" filepath="$PROJECT_DIR$/zidingyiview/build/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginactiviy/loginactiviy.iml" filepath="$PROJECT_DIR$/loginactiviy/loginactiviy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuibowen_view/shuibowen_view.iml" filepath="$PROJECT_DIR$/shuibowen_view/shuibowen_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zidingyiview/zidingyiview.iml" filepath="$PROJECT_DIR$/zidingyiview/zidingyiview.iml" />
+    </modules>
+  </component>
+</project>
